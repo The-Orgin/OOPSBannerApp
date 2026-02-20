@@ -1,18 +1,12 @@
 /*
-*OOPSBannerApp UC2
+*OOPSBannerApp UC1
 *
 *@author Dhanush
-*@version 2.0 
+*@version 1.0 
 */
 
 public class OOPSBannerApp{
     public static void main(String[] args) {
-        System.out.println("   *** " + " " + "     *** " + " " + "   ****** " + " " + "       ***** ");
-        System.out.println(" **   ** " + " " + " **   ** " + " " + " **    ** " + " " + "   **     ** ");
-        System.out.println(" **   ** " + " " + " **   ** " + " " + " **    ** " + " " + " ** ");
-        System.out.println(" **   ** " + " " + " **   ** " + " " + " ****** " + " " + "      ***** ");
-        System.out.println(" **   ** " + " " + " **   ** " + " " + " ** " + " " + "               ** ");
-        System.out.println(" **   ** " + " " + " **   ** " + " " + " ** " + " " + "     **      ** ");
-        System.out.println("   *** " + " " + "     *** " + " " + "   ** " + " " + "        ***** ");
+        System.out.println("OOPS");
     }
 }
