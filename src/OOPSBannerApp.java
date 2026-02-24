@@ -6,19 +6,6 @@
 */
 
 public class OOPSBannerApp{
-    /*
-    public static void main(String[] args) {
-    
-        String[] lines = {
-        String.join(" ","   ***   " , " " , "   ***   " , " " , " ******   " , " " , "   *****     "),
-        String.join(" "," **   ** " , " " , " **   ** " , " " , " **    ** " , " " , "  **    **   "),
-        String.join(" "," **   ** " , " " , " **   ** " , " " , " **    ** " , " " , " **          "),
-        String.join(" "," **   ** " , " " , " **   ** " , " " , " ******   " , " " , "   *****     "),
-        String.join(" "," **   ** " , " " , " **   ** " , " " , " **       " , " " , "         **  "),
-        String.join(" "," **   ** " , " " , " **   ** " , " " , " **       " , " " , " **     **   "),
-        String.join(" ","   ***   " , " " , "   ***   " , " " , " **       " , " " , "   *****     ")
-    };
-    */
     
     public static String[] getOPattern() {
         return new String[] {
